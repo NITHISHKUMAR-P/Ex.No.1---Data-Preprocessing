@@ -106,19 +106,19 @@ X_train.shape
 
 ## OUTPUT:
 ### Dataset
-![dataset](./Output/dataset.png)
+![dataset](./dataset.png)
 ### Checking for Null Values
-![null](./Output/null.png)
+![null](./null.png)
 ### Checking for duplicate values
-![duplicate](./Output/duplicate.png)
+![duplicate](./duplicate.png)
 ### Describing Data
-![describe](./Output/describe.png)
+![describe](./describe.png)
 ### Checking for outliers in Exited Column
-![outlier](./Output/outlier.png)
+![outlier](./outlier.png)
 ### Normalized Dataset
-![normalized_data](./Output/normalized_data.png)
+![normalized_data](./normalized_data.png)
 ### Describing Normalized Data
-![normalized_data_describe](./Output/Normalized_describe.png)
+![normalized_data_describe](./Normalized_describe.png)
 ### X - Values
 ![x](./x.png)
 ### Y - Value
